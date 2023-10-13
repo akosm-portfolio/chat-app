@@ -22,5 +22,12 @@ This was the final project for Telecommunication Systems course at the Universit
 - Scrollbar for long messages
 
 To generate users and passwords the [GenerateUserData](Server/Server/SecurePassword/GenerateUserData.cs) class is used to simplify the project. By running the generateUsers() method, we can create a .csv file containing user data. The uploaded project contains sample user data in [userdata.csv](Server/Server/bin/Debug/userdata.csv) file.
-To test run the []
+
+## Run the app
+To test the client run the [Client.exe](Client/Client/bin/Release/Client.exe) file, for the server run the [Server.exe](Server/Server/bin/Release/Server.exe) file. The default user details are the following:
+| Username  | Password |
+| --------- | -------- |
+| John      | passw1   |
+| Peter     | passw2   |
+| Ann       | passw3   |
 
