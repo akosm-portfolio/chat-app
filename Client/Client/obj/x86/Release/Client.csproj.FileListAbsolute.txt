@@ -1,0 +1,60 @@
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\bin\Release\Client.exe
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\bin\Release\Client.pdb
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\ClientMessage.baml
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\MainWindow.baml
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\ClientMessage.g.cs
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\MainWindow.g.cs
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\App.g.cs
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\Client_MarkupCompile.cache
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\Client.g.resources
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\Client.Properties.Resources.resources
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\Client.csproj.GenerateResource.cache
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\Client.exe
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\Client.pdb
+C:\Users\mandi\Desktop\tavkozlo_beadando másolata (2)\Client\Client\obj\x86\Release\Client.csprojAssemblyReference.cache
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\bin\Release\Client.exe
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\bin\Release\Client.pdb
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.csprojAssemblyReference.cache
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\ClientMessage.baml
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\MainWindow.baml
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\ClientMessage.g.cs
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\MainWindow.g.cs
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\App.g.cs
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\Client_MarkupCompile.cache
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.g.resources
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.Properties.Resources.resources
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.csproj.GenerateResource.cache
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.exe
+C:\Users\mandi\Desktop\tavkoz_kuldeni másolata\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.pdb
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\bin\Release\Client.exe
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\bin\Release\Client.pdb
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.csprojAssemblyReference.cache
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\ClientMessage.baml
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\MainWindow.baml
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\ClientMessage.g.cs
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\MainWindow.g.cs
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\App.g.cs
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\Client_MarkupCompile.cache
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.g.resources
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.Properties.Resources.resources
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.csproj.GenerateResource.cache
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.exe
+C:\Users\mandi\Desktop\tavkoz_kuldeni VÉGLEGES\tavkozlo_beadando\Client\Client\obj\x86\Release\Client.pdb
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\bin\Release\Client.exe
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\bin\Release\Client.pdb
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\ClientMessage.baml
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\MainWindow.baml
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\ClientMessage.g.cs
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\MainWindow.g.cs
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\App.g.cs
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\Client_MarkupCompile.cache
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\Client.g.resources
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\Client.Properties.Resources.resources
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\Client.csproj.GenerateResource.cache
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\Client.exe
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\Client.pdb
+C:\Users\mandi\OneDrive\Dokumentumok\University\Debreceni Egyetem\Programozás\tavkozlo_beadando_cs7dop_mandiakos\Client\Client\obj\x86\Release\Client.csproj.AssemblyReference.cache

@@ -1,0 +1,18 @@
+﻿<Window x:Class="Client.CliensMessage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ClientMessage" Height="299.332" Width="395.651"
+        Closing="Window_Closing"
+        ResizeMode="NoResize">
+    <Grid Height="240">
+        <TextBox Height="150" HorizontalAlignment="Left" Margin="12,12,0,0" Name="textBox1" VerticalAlignment="Top" Width="359" IsReadOnly="True" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Visible"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,181,0,0" Name="textBox2" VerticalAlignment="Top" Width="242" KeyDown="OnKeyDownHandler"/>
+        <Button Content="Send" Height="23" HorizontalAlignment="Left" Margin="296,181,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="Send_Click" />
+        <Button Content="Leave" Height="23" HorizontalAlignment="Left" Margin="296,217,0,0" Name="button2" VerticalAlignment="Top" Width="75" Click="Logout_Click" />
+        <Label Content="Send to:" Height="28" HorizontalAlignment="Left" Margin="12,212,0,0" Width="54"/>
+        <ComboBox x:Name="SendToComboBox" SelectedIndex="0" Margin="66,216,113.592,0">
+            <ComboBoxItem Content="Everyone"/>
+        </ComboBox>
+        <Button Content="File..." Height="23" HorizontalAlignment="Left" Margin="254,181,0,0" x:Name="button3" VerticalAlignment="Top" Width="31" Click="File_Click" />
+    </Grid>
+</Window>
