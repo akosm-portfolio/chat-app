@@ -13,7 +13,7 @@ This was the final project for Telecommunication Systems course at the Universit
 
 **In more details**
 - To log in, a password needs to be entered in addition to the username, these are stored in a .csv file on the server side. The password is handled with salt and hash, with attention to secure storage
-- Clients are able to send private messages, for this the selection list is also updated (on a separate thread) taking into account new connections and left users
+- Clients can send private messages, for this the selection list is also updated (on a separate thread) taking into account new connections and left users
 - The app is also capable of sending files, which can be broadcast or unicast. Received files are placed in the Documents/ChatProgram folder
 
 **Minor Features**
@@ -35,10 +35,13 @@ To test the client run the [Client.exe](Client/Client/bin/Release/Client.exe) fi
 
 https://github.com/akosm-portfolio/chat-app/assets/147773177/b8898a92-b89f-47d7-9aa0-64f1532281c6
 
+Screenshot 1.\
 ![screenshot1](https://am4pap001files.storage.live.com/y4mdgqN0K6qbw-LzRQHrEAOFhDHCW2ooThlWfiv0mYFKIw9vzK3_nktpL7HcpVDNMZcDumY0XbEza1JJNqpPSCrDhuJp8R6s9cajZTlUBKTHgP8qQcg2GwCaSXeWiT2vfxDHjYFrzB6RrCnOJ9AHwxzb0ewx-_wbMk_cK6vXhuh8FWIKIqlIl3XYUi-xr8otcAEJpKvSCDdjmx7IQdpzfZQ3Q?encodeFailures=1&width=930&height=500)
 
+Screenshot 2.\
 ![screenshot2](https://am4pap001files.storage.live.com/y4mHUiOOW16N0ms0iP_ugyvaQKPTjyLjzMG-FPPrkArJM1Pnw1m6hR99UKS650OZcGOZdwlplIwhpYWbcMg3KuDbPCOiKUeL9EbBbqdixqoCPYXAN8eH8kmk-z9fNfvQ-Ck7hmgc_9g4aDwUTCGCg_tFWLWtSAG_CcopQI9CSWlMEgfFB5rD1SRfsrKUdqUYrxvkUg9x4gFs5PUzFRILJzqcQ?encodeFailures=1&width=930&height=500)
 
+Screenshot 3.\
 ![screenshot3](https://am4pap001files.storage.live.com/y4mmDl_Vq68j6PdQA60mqkObbyCdIKLEDkP05j7hjqkM983Q_X1qH1KQ5kxkk58eE-CvjbslZ2WXCsT_OZw0TQbcOZ2f0HNMfPqS5HpgVOajl_Dj-pWPFGWTH_PcRYBAXIMCw93jPqVuNJ9EKymzQbmwfxYF9pZBkRfKcNOvX2utVC2BHb7B4uGDeB9sK_g1L-3M7E_BaHrI98AkvZVBIof5g?encodeFailures=1&width=930&height=500)
 
 
