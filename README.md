@@ -36,12 +36,12 @@ To test the client run the [Client.exe](Client/Client/bin/Release/Client.exe) fi
 https://github.com/akosm-portfolio/chat-app/assets/147773177/37523ea2-3b0a-4fe5-8af8-6e9d47091381
 
 *Screenshot 1*\
-![screenshot1](https://1drv.ms/i/c/be37dde1053404be/IQS-BDQF4d03IIC-wGsAAAAAAZD-HDw_o4AbL4NG7DTSMcM?width=660)
+![screenshot1](https://github.com/user-attachments/assets/2fe43986-d192-416a-9bb9-2927116bd180)
 
 *Screenshot 2*\
-![screenshot2](https://1drv.ms/i/c/be37dde1053404be/IQS-BDQF4d03IIC-wmsAAAAAAand92O1IQmbOoTRuDU5aXo?width=660)
+![Screenshot2](https://github.com/user-attachments/assets/c2a7f614-f805-4218-83e8-7fa6a0c31e9b)
 
 *Screenshot 3*\
-![screenshot3](https://1drv.ms/i/c/be37dde1053404be/IQS-BDQF4d03IIC-wWsAAAAAAYDpDAafVQCOHtaY_uD_eug?width=660)
+![screenshot3](https://github.com/user-attachments/assets/d87f0c1d-b655-4a11-bed9-e4ee889f3769)
 
 
